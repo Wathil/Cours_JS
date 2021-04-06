@@ -1,0 +1,20 @@
+    // Écrire un code JS qui demande deux entiers a un utilisateur et affiche le plus grand.
+
+    // Définir une variable contenant une température, puis comparer cette variable à une
+    // valeur seuil, afficher un message si la température est inférieure, un autre message si elle est
+    // supérieure.
+
+    // Ecrire un code JS qui permet d’afficher les nombres pairs compris entre 0 et 10.
+
+    // Écrivez un programme JavaScript qui itère les entiers de 1 à 100 :
+    // ‐ Pour les multiples de trois, imprimez "Fizz" au lieu du nombre et pour les multiples de cinq
+    // imprimez "Buzz".
+    // ‐ Pour les nombres qui sont des multiples de trois et cinq, imprimez "FizzBuzz".
+
+    // Ecrire un Code JS  pour construire le modèle suivant, en utilisant une boucle for imbriquée.
+    
+    // *  
+    // * *  
+    // * * *  
+    // * * * *  
+    // * * * * *
